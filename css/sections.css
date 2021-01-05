@@ -1,0 +1,8 @@
+#sections{
+scroll-margin-block-end: auto;
+}
+#stores{
+    block{}
+
+    scroll-margin-bottom: auto;
+}
