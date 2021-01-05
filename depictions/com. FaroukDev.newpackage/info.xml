@@ -1,5 +1,5 @@
 <package>
-	<id>com.supermamon.fullpackage</id>
+	<id>com. FaroukDev.fullpackage</id>
 	<name>Full Package</name>
 	<version>2.0.0-1</version>
 	<compatibility>
@@ -9,8 +9,6 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>preferenceloader</package>
-		<package>flipswitch</package>
 	</dependencies>
 	<shortDescription>This is a sample new package. Firmware should be greater than 7.0</shortDescription>
 	<descriptionlist>
@@ -18,17 +16,17 @@
 		<description>It has more description lines.</description>
 		<description><![CDATA[
 		You can also have<br/> 
-		a multi-line item like this -><a href="https://www.baidu.com/">百度</a>
+		a multi-line item.
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>This is the first description screenshot.</description>
-			<image>shot1.jpg</image>
+			<description>This is a description for screenshot 1. It's Cydia!</description>
+			<image>cydia.jpg</image>
 		</screenshot>		
 		<screenshot>
-			<description>This is the second description screenshot.</description>
+			<description>This is a description for screenshot 2. It's another Cydia!</description>
 			<image>cydia.jpg</image>
 		</screenshot>		
 	</screenshots>
@@ -42,11 +40,6 @@
 			<name>/r/jailbreak</name>
 			<url>https://www.reddit.com/r/jailbreak</url>
 			<iconclass>fa fa-reddit</iconclass>
-		</link>
-		<link>
-			<name>Develpoer</name>
-			<url>https://www.baidu.com</url>
-			<iconclass>fa fa-code</iconclass>
 		</link>
 	</links>
 </package>
