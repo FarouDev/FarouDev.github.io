@@ -1,6 +1,6 @@
 Package: com.FaroukDev.newpackage
 Version: 2.0.0-1
-Section: Tweaks
+Section: themes
 Maintainer: Farouk Dev. <faroudev@gmail.com>
 Depends: firmware (>7.0), mobilesubstrate
 Architecture: iphoneos-arm
@@ -14,7 +14,7 @@ Depiction: https://FaroukDev.github.io/FaroukDev/depictions/?p=com.FaroukDev.new
 
 Package: com.FaroukDev.oldpackage
 Version: 1.0.0-1
-Section: Tweaks
+Section: themes
 Maintainer: Farouk Dev. <faroudev@gmail.com>
 Depends: firmware (<7.0)
 Architecture: iphoneos-arm
@@ -27,17 +27,17 @@ Author: Farouk Dev. <faroudev@gmail.com>
 Depiction: https://faroudev.github.io/faroudev/depictions/?p=com.FaroukDev.oldpackage
 
 
-Package: com.pulandres.safestdn_1.60_iphoneos-arm.deb
+Package: com.pulandres.safestdn
 Version: 1.0.0-1
 Section: Tweaks
 Maintainer: Farouk Dev. <faroudev@gmail.com>
-Depends: firmware (<7.0)
+Depends: firmware (>11.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.pulandres.safestdn_1.60_iphoneos-arm.deb
-Size: 860
+Size: 9,327,236
 MD5sum: 06A71B14C2E6FC5585D323D2CC118340
 Description: This is a sample old package. Firmware should be greater than 11.0
 Name: safestdn
 Author: Farouk Dev. <faroudev@gmail.com>
-Depiction: https://faroudev.github.io/faroudev/depictions/?p=com.pulandres.safestdn.deb
+Depiction: https://faroudev.github.io/faroudev/depictions/?p=com.pulandres.safestdn
 
