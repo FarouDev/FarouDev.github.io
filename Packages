@@ -35,9 +35,9 @@ Depends: firmware (<7.0)
 Architecture: iphoneos-arm
 Filename: ./debs/com.pulandres.safestdn_1.60_iphoneos-arm.deb
 Size: 860
-MD5sum: 8c606f0c05217aa2a20949091fe516f0
-Description: This is a sample old package. Firmware should be lower than 7.0
-Name: Old Package
+MD5sum: 06A71B14C2E6FC5585D323D2CC118340
+Description: This is a sample old package. Firmware should be greater than 11.0
+Name: safestdn
 Author: Farouk Dev. <faroudev@gmail.com>
-Depiction: https://faroudev.github.io/faroudev/depictions/?p=com.FaroukDev.oldpackage
+Depiction: https://faroudev.github.io/faroudev/depictions/?p=com.pulandres.safestdn.deb
 
