@@ -1,0 +1,122 @@
+Package: com.antique.blots
+Version: 0.0.6
+Architecture: iphoneos-arm
+Maintainer: Antique
+Installed-Size: 392
+Depends: mobilesubstrate
+Filename: ./debs/com.antique.blots_0.0.6_iphoneos-arm.deb
+Size: 28828
+MD5sum: 155a4922e1cdf29744458a84ddff556a
+SHA1: 681c7f60513570dab6719e6b562f1292d5a760a5
+SHA256: 3f56d61c9916f1f5709b1d3284768f2c0a0875318ac35a66360c99717aa76658
+Section: Tweaks
+Description: Notifications always on screen
+Author: Antique
+Icon: file:///Library/PreferenceBundles/Blots.bundle/icon@3x.png
+Name: Blots
+
+Package: com.bandarhl.waunlimitedsend
+Version: 1.1-8
+Architecture: iphoneos-arm
+Maintainer: xRepo <support@xRepo.co>
+Depends: mobilesubstrate
+Filename: ./debs/com.bandarhl.waunlimitedsend_1.1-8_iphoneos-arm.deb
+Size: 539900
+MD5sum: b0d79cf4c4f58f071f08bc444aa39c1e
+SHA1: 7b3fd364a6a043d31c1414a04c50868553e8bde4
+SHA256: ce7e1e73a35a0a3088e07b8b2a03bbfb582a09361287db6726bb9522e3b3ba57
+Section: MyTweaks
+Priority: optional
+Author: @BandarHL
+Name: WAUnlimitedSend
+Sileodepiction: http://bandarhl.xrepo.co/sileo.php?pid=20
+Sponsor: xRepo.co <http://xRepo.co>
+
+Package: com.laxus.quickshot
+Version: 1.5.7
+Architecture: iphoneos-arm
+Maintainer: iOSGods.com
+Installed-Size: 8144
+Depends: mobilesubstrate
+Filename: ./debs/com.laxus.quickshot_1.5.7_iphoneos-arm.deb
+Size: 2339838
+MD5sum: 0cae9340e6908ceeb68a41f0e3f15e82
+SHA1: 20afbdc63338c2f15c95b5b0a5f0906e1836bf5b
+SHA256: 08d12f52c94e4088e2849c37032a987281a73f88567f39a744c1464d94c3c06c
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: Enlight Quickshot iGMM Cheats by Laxus for iOSGods.com!
+Author: Laxus
+Name: Enlight Quickshot Cheats
+
+Package: com.pulandres.safestdn
+Version: 1.60
+Architecture: iphoneos-arm
+Maintainer: Pulandres
+Installed-Size: 12368
+Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader, net.limneos.libbulletin, ws.hbang.common (>= 1.11)
+Filename: ./debs/com.pulandres.safestdn_1.60_iphoneos-arm.deb
+Size: 9327236
+MD5sum: 06a71b14c2e6fc5585d323d2cc118340
+SHA1: 35c3fe1f7a59245d97c34806a3a4ac404ca31e07
+SHA256: 30ac7c322af44e27f627bb7eb6b65b74d2ee85a41b5ce0f07f895d2e102a1126
+Section: Tweaks
+Description: Avoid re-jailbreaking when your iDevice have not battery.
+Author: Pulandres
+Depiction: https://repo.pulandres.me/index.php?pid=1116
+Icon: https://repo.pulandres.me/CydiaIcon.png
+Name: SafeShutdown Cracked
+Sileodepiction: https://repo.pulandres.me/sileo.php?pid=1116
+
+Package: com.supermamon.newpackage
+Version: 2.0.0-1
+Architecture: iphoneos-arm
+Maintainer: Reposi3 <reposithree@gmail.com>
+Depends: firmware (>7.0), mobilesubstrate
+Filename: ./debs/com. FaroukDev.newpackage_2.0.0-1_iphoneos-arm.deb
+Size: 854
+MD5sum: 85a01c41aaaa72b48b08d9d0a67f3016
+SHA1: 46bbcd314f5bcb29e05e287f08fe50e6547ea401
+SHA256: b01c426f4e262c901fd0a9dce060d89327af05bdbd203ce7527c133c1bc8cafd
+Section: Tweaks
+Description: This is a sample new package. Firmware should be greater than 7.0
+Author: Reposi3 <reposithree@gmail.com>
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Name: New Package
+
+Package: com.trafalgarfocospremium
+Version: 1.0.0+iOSGods.com
+Architecture: iphoneos-arm
+Maintainer: Tunahan
+Installed-Size: 328
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.trafalgarfocospremium_1.0.0iOSGods.com_iphoneos-arm.deb
+Size: 21308
+MD5sum: 673af15942a24645fe425c1ec9fe80b0
+SHA1: 8277fc5552f55fd90c49aab5485ec676d1d1c422
+SHA256: e2a6195f45289b3810744d30a6950e2a21bc7f69392079b7668417e71ef1e197
+Section: Tweaks
+Homepage: https://iosgods.com
+Description: An awesome Cydia Substrate tweak from iOSGods.com!
+Author: Tunahan
+Icon: file:///Library/PreferenceBundles/FocosPremium.bundle/FocosPremium@2x.png
+Name: Focos Cheats
+
+Package: com.twickd.t0mi.cydiaplus
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: t0mi <fritsch.weiding@yahoo.de>
+Depends: mobilesubstrate
+Filename: ./debs/com.twickd.t0mi.cydiaplus_1.2_iphoneos-arm.deb
+Size: 51148
+MD5sum: 41a7b7809d4870113c878d8d4162b84c
+SHA1: 9efb9820f177e01e048ad71d660d77af225d2d92
+SHA256: 557d4f7393304968b02b7d3e10ea683929865ba1810cb673db06d55f2c41d6aa
+Section: Tweaks
+Description: The only tweak you need for Cydia.
+Tag: compatible_min::ios5.1, compatible_max::ios13.5
+Author: t0mi <fritsch.weiding@yahoo.de>
+Depiction: https://repo.twickd.com/package/com.twickd.t0mi.cydiaplus
+Name: CydiaPlus
+Sileodepiction: https://repo.twickd.com/package/com.twickd.t0mi.cydiaplus/native
+
