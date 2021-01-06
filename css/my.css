@@ -19,25 +19,7 @@
         border-radius: 24px;
         border: 5px solid black;
       }
-      
-      div {
-        height: 200px;
-        width: 200px;
-        position: absolute;
-        display: block;
-        margin-left: auto;
-        margin-right: auto;
-       
-          
-        border-radius: 30px;
-        border: 5px solid rgba(241, 76, 0, 0.973);
-        cursor: pointer;
-        display: flex;
-        justify-content: center;
-        place-items: center;
-        box-shadow: 2px 5px 25px #e9b36c;
-      }
-      
+
       div::before,
       div::after{
         position: absolute;
