@@ -1053,3 +1053,18 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+		#cydia{
+		position :fixed;
+		left: 70px;
+		top: 380px;
+		}
+		#seilo{
+			position :fixed;
+			left: 160px;
+			top: 380px;
+			}
+		#twitter{
+				position :fixed;
+				left: 240px;
+				top: 380px;
+				}
